@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/ic_baseline_account_box_24"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_baseline_arrow_back_24"
+                    android:title="Logout" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/shop"
+            android:icon="@drawable/shop"
+            android:title="SHOP" />
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/cart"
+            android:icon="@drawable/cart"
+            android:title="cart" />
+        <item
+            android:id="@+id/FirstPay"
+            android:icon="@drawable/card"
+            android:title="My Payment Details" />
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/feedback"
+            android:title="Feedback" />
+        <item
+            android:id="@+id/upload"
+            android:icon="@drawable/additem"
+            android:title="Add Items" />
+
+    </group>
+
+
+</menu>

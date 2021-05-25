@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ShopsInfinity</string>
+    <string name="silexShoes">SILEX Shoes</string>
+    <string name="login">Login Page</string>
+    <string name="register">Register</string>
+    <string name="login1">Login</string>
+    <string name="createaccount">Create Account</string>
+    <string name="fullName">Full Name</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="userName">User Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="itemCode">Item Code</string>
+    <string name="name">Name</string>
+    <string name="size">Sizes</string>
+    <string name="colours">Colours</string>
+    <string name="description">Description</string>
+    <string name="imageSelect">Select Image</string>
+    <string name="upload">Upload</string>
+    <string name="price">Price</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="addcart">Buy</string>
+
+    //IT19151984
+    <string name="editeText1">Shops Infinity</string>
+    <string name="editeText2">Payment Details</string>
+    <string name="editeText3">Card Type</string>
+    <string name="editeText4">Debit </string>
+    <string name="editeText5">Credit</string>
+    <string name="editeText6">Card Number </string>
+    <string name="editeText7">Name on Card </string>
+    <string name="editeText8">Card Expriy Date </string>
+    <string name="editeText9">Security Code </string>
+    <string name="editeText10">Save </string>
+    <string name="editeText11">Show </string>
+    <string name="editeText12">Update </string>
+    <string name="editeText13">Cancel </string>
+
+
+</resources>
